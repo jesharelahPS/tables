@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="ACT Logo">
+        </div>
+        <div class="user-info">
+            <span>23-2004192 SENTENTA, JESHARELAH PERINO</span>
+            <a href="#" class="logout-button">Logout</a>
+        </div>
+    </header>
+    <main>
+        <div class="back-container">
+            <div class="container">
+                <p class="curriculum-title">Curriculum</p>
+                <div class="curriculum-header">
+                    <select name="semester" class="semester-select">
+                        <option value="first">--Filter Curriculum--</option>
+                        <option value="second">BSIT-Bachelor of Science in Information Technology-First Semester A.Y 2023-2024</option>
+                        <option value="second">BSIT-Bachelor of Science in Computer Science-First Semester A.Y 2023-2024</option>
+                        <option value="second">BSIT-Bachelor of Science in Computer Engineering-First Semester A.Y 2023-2024</option>
+                    </select>
+                    <button class="view-button">VIEW</button>
+                </div>
+                <div class="main-info">
+                    <div class="notice">
+                        <p><b>NOTICE:</b> This is not valid for transfer. This is not an official copy of your transcript.
+                            The Curriculum contents are subject to change based on Course Equivalencies.
+                            This will be your guide for selecting subjects to be enrolled.
+                        </p>
+                        <p><b>White</b> background means not yet taken.<br>
+                            <b style="background-color: #ffda44f5;">Yellow</b> background means currently taken.<br>
+                            <b style="background-color: #87ceeb;">Skyblue</b> background means already taken.</p>     
+                    </div>
+                    <p class="student-info">
+                        Bachelor of Science in Information Technology<br>
+                        SETENTA, JESHARELAH PERINO<br>
+                        23-2004192<br>
+                    </p>
+                    <table id="table-data">
+                        <!-- <tbody>
+                            <tr class="semester-header">
+                                <td colspan="7">First Year, First Semester</td>
+                            </tr>
+                            <tr class="semester-header">
+                                <th>Course</th>
+                                <th>Description</th>
+                                <th>Unit</th>
+                                <th>Grade</th>
+                                <th>Remarks</th>
+                                <th>Course</th>
+                                <th>Term</th>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>NSTP01</td>
+                                <td>Civic Welfare Training Service 1</td>
+                                <td>3.0</td>
+                                <td>1.70</td>
+                                <td>Passed</td>
+                                <td>NSTP01</td>
+                                <td>First Semester A.Y 2014-2015</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>SCITEC</td>
+                                <td>Science, Technology and Society</td>
+                                <td>3.0</td>
+                                <td>1.30</td>
+                                <td>Passed</td>
+                                <td>SCITEC</td>
+                                <td>First Semester A.Y 2023-2024</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>INTCOM</td>
+                                <td>Introduction to Computing</td>
+                                <td>3.0</td>
+                                <td>1.30</td>
+                                <td>Passed</td>
+                                <td>INTCOM</td>
+                                <td>First Semester A.Y 2023-2024</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>COPRO1</td>
+                                <td>Computer Programming 1</td>
+                                <td>3.0</td>
+                                <td>1.40</td>
+                                <td>Passed</td>
+                                <td>COPRO1</td>
+                                <td>First Semester A.Y 2023-2024</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>COMPOP</td>
+                                <td>Computer Operations: Office Productivity Software(MS Office)</td>
+                                <td>3.0</td>
+                                <td>1.30</td>
+                                <td>Passed</td>
+                                <td>COMPOP</td>
+                                <td>First Semester A.Y 2023-2024</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>ENGFUN</td>
+                                <td>English Fundamentals</td>
+                                <td>3.0</td>
+                                <td>1.40</td>
+                                <td>Passed</td>
+                                <td>ENGFUN</td>
+                                <td>First Semester A.Y 2023-2024</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>PAFIT1</td>
+                                <td>Movement Competency Training</td>
+                                <td>2.0</td>
+                                <td>1.60</td>
+                                <td>Passed</td>
+                                <td>PAFIT1</td>
+                                <td>First Semester A.Y. 2014-2015</td>
+                            </tr>
+                            <tr class="line-color" style="background-color: #87ceeb;">
+                                <td>JRIZAL</td>
+                                <td>Life, Works and Writings of Jose Rizal</td>
+                                <td>3.0</td>
+                                <td>1.7</td>
+                                <td>Passed</td>
+                                <td>JRIZAL</td>
+                                <td>First Semester A.Y 2014-2015</td>
+                            </tr>
+                        </tbody> -->
+                    </table>
+                </div>
+            </div>
+            <div class="published-date">
+                <p>PUBLISHED DATE: 2024-08-28 05:00 PM</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

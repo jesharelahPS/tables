@@ -1,0 +1,491 @@
+[
+    {
+        "course": "NSTP01",
+        "desc": "Civic Welfare Training Service 1",
+        "unit": "3.0",
+        "grade": "1.70",
+        "remarks": "Passed",
+        "term": "First Semester A.Y. 2014-2015",
+        "sem": 0
+    },
+    {
+        "course": "SCITEC",
+        "desc": "Science, Technology and Society",
+        "unit": "3.0",
+        "grade": "1.30",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "INTCOM",
+        "desc": "Introduction to Computing",
+        "unit": "3.0",
+        "grade": "1.30",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "COPRO1",
+        "desc": "Computer Programming 1",
+        "unit": "3.0",
+        "grade": "1.40",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "COMPOP",
+        "desc": "Computer Operations: Office Productivity Software(MS Office)",
+        "unit": "3.0",
+        "grade": "1.30",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "ENGFUN",
+        "desc": "English Fundamentals",
+        "unit": "3.0",
+        "grade": "1.40",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "PAFIT1",
+        "desc": "Movement Competency Training",
+        "unit": "2.0",
+        "grade": "2.60",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+    {
+        "course": "JRIZAL",
+        "desc": "Life, Works and Writings of Jose Rizal",
+        "unit": "3.0",
+        "grade": "1.7",
+        "remarks": "Passed",
+        "term": "First Semester A.Y 2023-2024",
+        "sem": 0
+    },
+
+
+
+    {
+        "course": "ANIMUL",
+        "desc": "Animation and Multimedia",
+        "unit": "3.0",
+        "grade": "1.10",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "ARTAPP ",
+        "desc": "Art Appreciation",
+        "unit": "3.0",
+        "grade": "1.40",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "MATMOD",
+        "desc": "Mathematics in the Modern World",
+        "unit": "3.0",
+        "grade": "1.20",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "PURCOM",
+        "desc": "Purposive Communication",
+        "unit": "3.0",
+        "grade": "1.20",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "NSTP02",
+        "desc": "Civic Welfare Training Service 2",
+        "unit": "3.0",
+        "grade": "2.00",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "DSTRU1",
+        "desc": "Discrete Structures 1",
+        "unit": "3.0",
+        "grade": "1.30",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "COPRO2",
+        "desc": "Computer Programming 2",
+        "unit": "3.0",
+        "grade": "1.40",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    {
+        "course": "PAFIT2",
+        "desc": "Exercise-Based Fitness Activities",
+        "unit": "2.0",
+        "grade": "2.30",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 1
+    },
+    
+
+
+    {
+        "course": "GEEL02",
+        "desc": "Indigenous Creative Crafts",
+        "unit": "3.0",
+        "grade": "1.00",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 2
+    },
+    {
+        "course": "GEEL01",
+        "desc": "General Education Elective 1",
+        "unit": "3.0",
+        "grade": "1.40",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 2
+    },
+    {
+        "course": "PAFIT3",
+        "desc": "Dance Exploration",
+        "unit": "2.0",
+        "grade": "1.70",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 2
+    },
+    {
+        "course": "OOPROG",
+        "desc": "Object-Oriented Programming",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 2
+    },
+    {
+        "course": "HUMCOM",
+        "desc": "Human Computer Interaction",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 2
+    },
+    {
+        "course": "NETWRK",
+        "desc": "CCNA Exploration: Network Fundamentals",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 2
+    },
+    {
+        "course": "PROEL1",
+        "desc": "Professional Elective 1",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 2
+    },
+
+
+
+    {
+        "course": "INMANA",
+        "desc": "Information Management",
+        "unit": "3.0",
+        "grade": "1.60",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 3
+    },    
+    {
+        "course": "DASTRU",
+        "desc": "Data Structures and Algorithms",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 3
+    },    
+    {
+        "course": "PAFIT4",
+        "desc": "Sports and Recreation",
+        "unit": "2.0",
+        "grade": "",
+        "remarks": "",
+        "term": "",
+        "sem": 3
+    },    
+    {
+        "course": "UNDSLF",
+        "desc": "Understanding the Self",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " "
+    },    
+    {
+        "course": "GEEL03",
+        "desc": "General Education Elective 3",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 3
+    },    
+    {
+        "course": "TECHNO",
+        "desc": "Technopreneurship",
+        "unit": "3.0",
+        "grade": "",
+        "remarks": "",
+        "term": "",
+        "sem": 3
+    },    
+    {
+        "course": "EVEDRI",
+        "desc": "Event Driven Programming",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 3
+    },
+
+
+
+    {
+        "course": "SOFENG",
+        "desc": "Software Engineering",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 4
+    },    
+    {
+        "course": "RESMET",
+        "desc": "Research Methods in IT",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 4
+    },    
+    {
+        "course": "SYSTIN",
+        "desc": "System Integration and Architecture",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 4
+    },    
+    {
+        "course": "MOBAPP",
+        "desc": "Mobile Application",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 4
+    },    
+    {
+        "course": "PROEL2",
+        "desc": "Professional Elective 2",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 4
+    },    
+    {
+        "course": "WEBTEC",
+        "desc": "Web Technology",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": "In progress",
+        "term": " ",
+        "sem": 4
+    },
+
+
+
+    {
+        "course": "CPSTON1",
+        "desc": "Capstone Project 1",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+    {
+        "course": "PROEL3",
+        "desc": "Professional Elective 3",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+    {
+        "course": "PROEL4",
+        "desc": "Professional Elective 4",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+    {
+        "course": "SYSTAD",
+        "desc": "System Administration and Maintenance",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+    {
+        "course": "APPDEV",
+        "desc": "Application Development and Emerging Technologies",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+    {
+        "course": "SOCPRO",
+        "desc": "Social and Professional Issues",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 5
+    },
+
+
+
+    {
+        "course": "CONWOR",
+        "desc": "The Contemporary World",
+        "unit": "3.0",
+        "grade": "1.20",
+        "remarks": "Passed",
+        "term": "Second Semester A.Y 2023-2024",
+        "sem": 6
+    },
+    {
+        "course": "OPESYS",
+        "desc": "Operating Systems",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 6
+    },
+    {
+        "course": "CPSTON2",
+        "desc": "Capstone Project 2",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 6
+    },
+    {
+        "course": "ITPRA1",
+        "desc": "IT Practicum 1 (250 Hours)",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 6
+    },
+    {
+        "course": "INFASS",
+        "desc": "Information Assurance and Security",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 6
+    },
+
+
+
+
+    {
+        "course": "PHIHIS",
+        "desc": "Readings in Philippine History",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 7
+    },
+    {
+        "course": "ITPRA2",
+        "desc": "IT Practicum 2 (250 Hours)",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 7
+    },
+    {
+        "course": "ETHICS",
+        "desc": "Ethics",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 7
+    },
+    {
+        "course": "PLATEC",
+        "desc": "Platform Technologies",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 7
+    },
+    {
+        "course": "BUSANA",
+        "desc": "Business Analytics",
+        "unit": "3.0",
+        "grade": " ",
+        "remarks": " ",
+        "term": " ",
+        "sem": 7
+    }
+]
